@@ -54,4 +54,4 @@ select
 	Employee,
 	Salary
 from max_salary
-where ranked in (1,2,3) ;
+where ranked in (1,2,3);
